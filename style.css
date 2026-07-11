@@ -13,3 +13,8 @@
     list-style: none;
     gap: 16px;
 }
+
+a
+{
+    text-decoration: none;
+}
