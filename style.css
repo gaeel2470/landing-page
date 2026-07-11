@@ -5,3 +5,11 @@
     align-items: center;
     padding: 16px 128px;
 }
+
+.links
+{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 16px;
+}
