@@ -18,3 +18,14 @@ a
 {
     text-decoration: none;
 }
+
+.hero-container
+{
+    display: flex;
+}
+
+.hero-image
+{
+    height: 220px;
+    width: 500px;
+}
