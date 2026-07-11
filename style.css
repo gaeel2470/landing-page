@@ -18,7 +18,6 @@ body
 {
     display: flex;
     justify-content: space-between;
-    align-items: center;
 }
 
 .header-logo
@@ -30,7 +29,6 @@ body
 .header-links
 {
     display: flex;
-    align-items: center;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -58,6 +56,15 @@ a, .hero-secondary-text
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 900;
+}
+
+.hero-sign-up-button
+{
+    color: #F9FAF8;
+    background-color: #3882F6;
+    padding: 8px 32px;
+    border-radius: 8px;
+    border: 0;
 }
 
 .hero-image
