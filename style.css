@@ -56,8 +56,8 @@ a, .hero-secondary-text
 
 .hero-text
 {
-    height: 230px;
-    width: 550px;
+    height: 280px;
+    width: 500px;
 }
 
 .hero-main-text
@@ -76,11 +76,10 @@ a, .hero-secondary-text
     padding: 8px 32px;
     border-radius: 8px;
     border: none;
-    margin-top: 10px;
+    margin-top: 16px;
 }
 
 .hero-image
 {
-    height: 230px;
-    width: 500px;
+    height: 280px;
 }
