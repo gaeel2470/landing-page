@@ -56,8 +56,8 @@ a, .hero-secondary-text
 
 .hero-text
 {
-    height: 280px;
     width: 500px;
+    height: 280px;
 }
 
 .hero-main-text
@@ -82,4 +82,5 @@ a, .hero-secondary-text
 .hero-image
 {
     height: 280px;
+    width: 496px;
 }
