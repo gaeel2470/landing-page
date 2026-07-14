@@ -84,3 +84,24 @@ a, .hero-secondary-text
     height: 280px;
     width: 496px;
 }
+
+.information-container
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 48px;
+    gap: 64px;
+}
+
+.information-pictures
+{
+    display: flex;
+    gap: 64px;
+}
+
+.teacher-picture
+{
+    height: 170px;
+    width: 170px;
+}
