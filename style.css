@@ -91,9 +91,16 @@ a, .hero-secondary-text
     flex-direction: column;
     align-items: center;
     padding-top: 54px;
-    padding-bottom: 112px;
-    gap: 64px;
+    padding-bottom: 96px;
+    gap: 48px;
     text-align: center;
+}
+
+.information-text
+{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
 }
 
 .information-teachers
@@ -102,20 +109,17 @@ a, .hero-secondary-text
     gap: 64px;
 }
 
-.teacher-info
-{
-    width: 170px;
-}
-
 .teacher-picture
 {
     height: 170px;
     width: 170px;
     border: solid #3882F6;
     border-radius: 16px;
+    margin-bottom: 8px;
 }
 
 .teacher-text
-{
-    margin-top: 8px;
+{   
+    width: 170px;
+    color: #424242;
 }
