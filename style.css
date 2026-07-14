@@ -92,12 +92,18 @@ a, .hero-secondary-text
     align-items: center;
     padding-top: 48px;
     gap: 64px;
+    text-align: center;
 }
 
-.information-pictures
+.information-teachers
 {
     display: flex;
     gap: 64px;
+}
+
+.teacher-info
+{
+    width: 170px;
 }
 
 .teacher-picture
