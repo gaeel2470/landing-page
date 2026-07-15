@@ -11,8 +11,8 @@ body
     display: flex;
     flex-direction: column;
     background-color: #1F2937;
-    padding: 16px 128px 96px;
-    gap: 96px;
+    padding: 16px 128px 112px;
+    gap: 112px;
 }
 
 .header
