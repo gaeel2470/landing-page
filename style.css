@@ -67,7 +67,7 @@ a, .hero-secondary-text
     font-weight: 900;
 }
 
-.hero-sign-up-button
+.hero-sign-up-button, .sign-up-container-button
 {
     color: #F9FAF8;
     background-color: #3882F6;
@@ -75,8 +75,17 @@ a, .hero-secondary-text
     font-weight: bold;
     padding: 8px 32px;
     border-radius: 8px;
-    border: none;
     margin-top: 16px;
+}
+
+.hero-sign-up-button
+{
+    border: none;
+}
+
+.sign-up-container-button
+{
+   border: solid 2px #F9FAF8; 
 }
 
 .hero-image
@@ -149,4 +158,32 @@ a, .hero-secondary-text
     font-size: 24px;
     font-weight: bold;
     margin-right: 272px;
+}
+
+.sign-up-container
+{
+    display: flex;
+    height: 130px;
+    width: 1000px;
+    align-self: center;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 8px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.start-today-main
+{
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.start-today-secondary
+{
+    color: #F9FAF8;
+    font-size: 18px;
 }
