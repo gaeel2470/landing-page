@@ -38,7 +38,7 @@ body
     list-style: none;
     margin: 0;
     padding: 0;
-    gap: 16px;
+    gap: 24px;
 }
 
 a
@@ -143,16 +143,21 @@ a, .hero-secondary-text
 .quote-container
 {   
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     background-color: #E5E7EB;
     padding-top: 128px;
     padding-bottom: 112px;
 }
 
 .quote-text
-{
+{   
+    display: flex;
+    flex-direction: column;
     width: 785px;
-    align-self: center;
+}
+
+.quote-main
+{
     color: #1F2937;
     font-size: 36px;
     font-weight: 300;
@@ -160,11 +165,11 @@ a, .hero-secondary-text
 
 .quote-author
 {   
-    text-align: end;
+    align-self: flex-end;
     color: #1F2937;
     font-size: 24px;
     font-weight: bold;
-    margin-right: 272px;
+    
 }
 
 /* Sign up section */
