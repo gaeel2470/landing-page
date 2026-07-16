@@ -6,6 +6,8 @@ body
     margin: 0;
 }
 
+/* Header and Hero sections */
+
 .header-hero-container
 {
     display: flex;
@@ -14,6 +16,8 @@ body
     padding: 16px 128px 120px;
     gap: 120px;
 }
+
+/* Header */
 
 .header
 {
@@ -47,6 +51,8 @@ a, .hero-secondary-text
     color: #E5E7EB;
     font-size: 18px;
 }
+
+/* Hero */
 
 .hero
 {
@@ -90,6 +96,8 @@ a, .hero-secondary-text
     width: 496px;
 }
 
+/* Information section */
+
 .information-container
 {
     display: flex;
@@ -130,6 +138,8 @@ a, .hero-secondary-text
     font-size: 18px;
 }
 
+/* Quote section */
+
 .quote-container
 {   
     display: flex;
@@ -156,6 +166,8 @@ a, .hero-secondary-text
     font-weight: bold;
     margin-right: 272px;
 }
+
+/* Sign up section */
 
 .sign-up-container
 {
@@ -189,6 +201,8 @@ a, .hero-secondary-text
 {
    border: solid 2px #F9FAF8; 
 }
+
+/* Footer section */
 
 .footer-container
 {
