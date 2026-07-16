@@ -160,15 +160,15 @@ a, .hero-secondary-text
 .sign-up-container
 {
     display: flex;
-    height: 130px;
+    height: 140px;
     width: 1000px;
     align-self: center;
     justify-content: space-around;
     align-items: center;
     background-color: #3882F6;
     border-radius: 8px;
-    margin-top: 80px;
-    margin-bottom: 80px;
+    margin-top: 90px;
+    margin-bottom: 90px;
 }
 
 .sign-up-text-main
