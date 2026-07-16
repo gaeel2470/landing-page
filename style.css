@@ -111,13 +111,13 @@ a, .hero-secondary-text
 .information-teachers
 {
     display: flex;
-    gap: 64px;
+    gap: 48px;
 }
 
 .teacher-picture
 {
-    height: 170px;
-    width: 170px;
+    height: 150px;
+    width: 150px;
     border: solid #3882F6;
     border-radius: 16px;
     margin-bottom: 8px;
@@ -125,7 +125,7 @@ a, .hero-secondary-text
 
 .teacher-text
 {   
-    width: 170px;
+    width: 160px;
     color: #535353;
     font-size: 18px;
 }
