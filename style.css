@@ -189,3 +189,18 @@ a, .hero-secondary-text
 {
    border: solid 2px #F9FAF8; 
 }
+
+.footer-container
+{
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.footer-text
+{
+    color: #F9FAF8;
+    font-size: 18px;
+}
