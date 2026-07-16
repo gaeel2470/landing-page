@@ -135,8 +135,8 @@ a, .hero-secondary-text
     display: flex;
     flex-direction: column;
     background-color: #E5E7EB;
-    padding-top: 112px;
-    padding-bottom: 80px;
+    padding-top: 128px;
+    padding-bottom: 112px;
 }
 
 .quote-text
