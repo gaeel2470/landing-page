@@ -75,17 +75,13 @@ a, .hero-secondary-text
     font-weight: bold;
     padding: 8px 32px;
     border-radius: 8px;
-    margin-top: 16px;
+    
 }
 
 .hero-sign-up-button
-{
+{   
+    margin-top: 16px;
     border: none;
-}
-
-.sign-up-container-button
-{
-   border: solid 2px #F9FAF8; 
 }
 
 .hero-image
@@ -175,7 +171,7 @@ a, .hero-secondary-text
     margin-bottom: 80px;
 }
 
-.start-today-main
+.sign-up-text-main
 {
     color: #F9FAF8;
     font-size: 24px;
@@ -183,8 +179,13 @@ a, .hero-secondary-text
 
 }
 
-.start-today-secondary
+.sign-up-text-secondary
 {
     color: #F9FAF8;
     font-size: 18px;
+}
+
+.sign-up-container-button
+{
+   border: solid 2px #F9FAF8; 
 }
